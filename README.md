@@ -23,7 +23,7 @@
 
 ### Ruby
  * [Por que eu troquei o WordPress pelo Jekyll?](http://www.pablocantero.com/blog/2012/03/14/por-que-eu-troquei-o-wordpress-pelo-jekyll/)
- * [Flame War: Por que usar Jekyll]((Por que usar Jekyll?](http://willianjusten.com.br/por-que-usar-jekyll/)
+ * [Flame War: Por que usar Jekyll](Por que usar Jekyll?](http://willianjusten.com.br/por-que-usar-jekyll/)
 
 ### Comments
  * [2014 retrospective](http://zenorocha.com/2014-retrospective/)
