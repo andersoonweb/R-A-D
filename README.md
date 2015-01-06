@@ -1,4 +1,4 @@
-![alt text](https://raw.githubusercontent.com/amenezesw/R-A-D/master/image/rad.png"Registration an developer")
+![Alt text](/image/rad.png "Registration an developer")
 ## Registration an developer
 ##### This project is inspired by the [DEV-LOG](https://github.com/ericdouglas/dev-log)
 
