@@ -3,10 +3,10 @@
 ##### This project is inspired by the [DEV-LOG](https://github.com/ericdouglas/dev-log)
 
 * **[HTML](source/html/readme.md)**
-* **[CSS](#)**
-* **[JAVASCRIPT](#)**
-* **[PERFORMACE](#)**
-* **[WORKFLOW](#)**
-* **[PALESTRAS](#)**
-* **[RUBY](#)**
-* **[COMMENTS](#)**
+* **[CSS](source/css/readme.md)**
+* **[JAVASCRIPT](source/javascript/readme.md)**
+* **[PERFORMACE](source/performace/readme.md)**
+* **[WORKFLOW](source/workflow/readme.md)**
+* **[PALESTRAS](source/palestras/readme.md)**
+* **[RUBY](source/ruby/readme.md)**
+* **[COMMENTS](source/comments/readme.md)**
