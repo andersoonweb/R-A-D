@@ -10,4 +10,4 @@
 * **[PALESTRAS](source/palestras/readme.md)**
 * **[RUBY](source/ruby/readme.md)**
 * **[COMMENTS](source/comments/readme.md)**
-* **[COMMENTS](source/comments/readme.md)**
+* **[SCREENCAST](source/screencast/readme.md)**
