@@ -11,4 +11,3 @@
 * **[RUBY](source/ruby/readme.md)**
 * **[COMMENTS](source/comments/readme.md)**
 * **[SCREENCAST](source/screencast/readme.md)**
-* **[STACKOVERFLOW](source/screencast/readme.md)**
