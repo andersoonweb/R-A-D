@@ -4,3 +4,4 @@
  * [Front sizing with REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
  * [CSS "rem" Unit support](http://ahedg.es/w/rem.html)
  *[Interfaces like a boss!](http://woliveiras.com.br/desenvolvendo-interfaces-like-boss/)
+ *[Choosing great variable names](http://thesassway.com/beginner/variable-naming)
