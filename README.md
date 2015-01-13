@@ -7,6 +7,7 @@
 * **[JAVASCRIPT](source/javascript/readme.md)**
 * **[PERFORMACE](source/performace/readme.md)**
 * **[WORKFLOW](source/workflow/readme.md)**
+* **[INBOX](source/inbox/readme.md)**
 * **[WORDPRESS](source/wordpress/readme.md)**
 * **[PALESTRAS](source/palestras/readme.md)**
 * **[RUBY](source/ruby/readme.md)**
