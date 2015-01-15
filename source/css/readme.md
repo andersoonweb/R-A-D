@@ -7,4 +7,5 @@
 *[Choosing great variable names](http://thesassway.com/beginner/variable-naming)
 *[Make full screen sections with 1 line of CSS — Medium](https://medium.com/@ckor/make-full-screen-sections-with-1-line-of-css-b82227c75cbd)
 *[Da necessidade de um CSS do BEM](https://medium.com/@wilfernandesjr/da-necessidade-de-um-css-do-bem-7332a10c3f8d)
+*[How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
 
