@@ -11,3 +11,5 @@
 *[Nested selectors: the inception rule](http://thesassway.com/beginner/the-inception-rule)
 *[http://sriharisriraman.in/blog/2013/09/08/dont-nest-css/](http://sriharisriraman.in/blog/2013/09/08/dont-nest-css/)
 *[Getting started with Sass and Compass](http://thesassway.com/beginner/getting-started-with-sass-and-compass)
+*[CSS: Taking control of the cascade](https://signalvnoise.com/posts/3003-css-taking-control-of-the-cascade)
+
