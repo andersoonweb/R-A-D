@@ -16,5 +16,6 @@
 *[CSS escalável - Parte 1](https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e)
 *[CSS escalável - Parte 2](https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d)
 *[Regex para organizar seu CSS](http://www.raphaelfabeni.com.br/organizando-css-com-regex/)
-
+*[CSS escalável - Parte 3](https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7)
+*[CSS escalável - Parte final](https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a)
 
