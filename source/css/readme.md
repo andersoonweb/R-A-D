@@ -18,4 +18,4 @@
 *[Regex para organizar seu CSS](http://www.raphaelfabeni.com.br/organizando-css-com-regex/)
 *[CSS escalável - Parte 3](https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7)
 *[CSS escalável - Parte final](https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a)
-
+*[Examining how CSS is being used in the wild](http://reports.quickleft.com/css)
