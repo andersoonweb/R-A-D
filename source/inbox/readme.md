@@ -5,3 +5,5 @@
 * [Aprenda português antes de ter um blog](https://medium.com/@felquis/aprenda-portugues-antes-de-ter-um-blog-a2647d913a45)
 * [Coisa que eu gostaria que alguém tivesse me dito quando eu estava aprenendo a programar](http://jcfausto.com/coisas-que-eu-gostaria-que-alguem-tivesse-me-dito-quando-eu-estava-aprendendo-a-programar/)
 * [Stop funcking up code learning](http://hugogiraudel.com/2015/01/26/stop-fucking-up-code-learning/)
+* [A baseline for front-end developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
+
