@@ -20,3 +20,4 @@
 * [CSS escalável - Parte final](https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a)
 * [Examining how CSS is being used in the wild](http://reports.quickleft.com/css)
 * [Responsive Web Design in Sass Part 1: Fluid layouts and fluid images](http://thesassway.com/intermediate/responsive-web-design-part-1)
+* [Usando condicionais no Sass – Control Directives](http://tableless.com.br/usando-condicionais-sass-control-directives/)
