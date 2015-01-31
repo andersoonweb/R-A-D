@@ -6,4 +6,5 @@
 * [Coisa que eu gostaria que alguém tivesse me dito quando eu estava aprenendo a programar](http://jcfausto.com/coisas-que-eu-gostaria-que-alguem-tivesse-me-dito-quando-eu-estava-aprendendo-a-programar/)
 * [Stop funcking up code learning](http://hugogiraudel.com/2015/01/26/stop-fucking-up-code-learning/)
 * [A baseline for front-end developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
-
+* [Sobre transformar erros em acertos](http://danielfilho.github.io/2014/11/16/sobre-transformar-erros-em-acertos/)
+* [Pensamentos sobre uma vida mutante](http://felipesousa.github.io//Pensamentos-de-uma-vida-mutante/)
