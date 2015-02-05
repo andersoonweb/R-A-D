@@ -8,3 +8,4 @@
 * [A baseline for front-end developers](http://rmurphey.com/blog/2012/04/12/a-baseline-for-front-end-developers/)
 * [Sobre transformar erros em acertos](http://danielfilho.github.io/2014/11/16/sobre-transformar-erros-em-acertos/)
 * [Pensamentos sobre uma vida mutante](http://felipesousa.github.io//Pensamentos-de-uma-vida-mutante/)
+* [An exploration in Material Design](https://medium.com/@abrodo/an-exploration-in-material-design-by-feedly-8c1a1cbdfdcd)
