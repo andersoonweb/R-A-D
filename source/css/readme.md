@@ -22,3 +22,4 @@
 * [Responsive Web Design in Sass Part 1: Fluid layouts and fluid images](http://thesassway.com/intermediate/responsive-web-design-part-1)
 * [Usando condicionais no Sass – Control Directives](http://tableless.com.br/usando-condicionais-sass-control-directives/)
 * [CSS Tips: Contadores Automáticos](http://gmoura.github.io/blog/2015/02/05/css-tips-contadores-automaticos/)
+* [Usando condicionais no Sass – Control Directives](http://tableless.com.br/usando-condicionais-sass-control-directives/)
