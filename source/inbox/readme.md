@@ -9,3 +9,4 @@
 * [Sobre transformar erros em acertos](http://danielfilho.github.io/2014/11/16/sobre-transformar-erros-em-acertos/)
 * [Pensamentos sobre uma vida mutante](http://felipesousa.github.io//Pensamentos-de-uma-vida-mutante/)
 * [An exploration in Material Design](https://medium.com/@abrodo/an-exploration-in-material-design-by-feedly-8c1a1cbdfdcd)
+* [Devo fazer faculdade ?](http://willianjusten.com.br/devo-fazer-faculdade/)
