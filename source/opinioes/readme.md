@@ -1,0 +1,11 @@
+###Opiniões
+* [2014 retrospective](http://zenorocha.com/2014-retrospective/)
+* [Programadores e depressão](https://medium.com/brasil/programadores-e-depressao-30043d2972b5)
+* [Aprenda português antes de ter um blog](https://medium.com/@felquis/aprenda-portugues-antes-de-ter-um-blog-a2647d913a45)
+* [Coisa que eu gostaria que alguém tivesse me dito quando eu estava aprenendo a programar](http://jcfausto.com/coisas-que-eu-gostaria-que-alguem-tivesse-me-dito-quando-eu-estava-aprendendo-a-programar/)
+* [Stop funcking up code learning](http://hugogiraudel.com/2015/01/26/stop-fucking-up-code-learning/)
+* [Sobre transformar erros em acertos](http://danielfilho.github.io/2014/11/16/sobre-transformar-erros-em-acertos/)
+* [Pensamentos sobre uma vida mutante](http://felipesousa.github.io//Pensamentos-de-uma-vida-mutante/)
+* [Devo fazer faculdade ?](http://willianjusten.com.br/devo-fazer-faculdade/)
+* [Passado, presente e futuro do desenvolvimento web](http://imasters.com.br/desenvolvimento/passado-presente-e-futuro-desenvolvimento-web/)
+* [O dia que eu virei nômade](https://medium.com/@BuKinoshita/o-dia-que-eu-virei-nomade-95b2e9e74d35)

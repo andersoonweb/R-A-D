@@ -7,3 +7,4 @@
 * [Segredos do Github - mantendo a ordem no seu repositório](http://blog.da2k.com.br/2015/02/01/segredos-do-github-mantendo-a-ordem-no-seu-repositorio/)
 * [Segredos do Github - Licenças](http://blog.da2k.com.br/2015/02/02/segredos-do-github-licencas/)
 * [Manter repositório do Github forkado sincronizado com o original](Manter repositório do Github forkado sincronizado com o original)
+* [Contribuindo para projetos Open Source no Github mesmo sendo iniciante](http://woliveiras.com.br/contribuindo-para-projetos-open-source-no-github-mesmo-sendo-iniciante/)
