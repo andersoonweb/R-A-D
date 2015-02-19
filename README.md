@@ -1,6 +1,6 @@
 ![Alt text](/image/rad.png "Registration an developer")
 ## Registration an developer
-##### This project is inspired by the [DEV-LOG](https://github.com/ericdouglas/dev-log)
+##### This project is inspired by	 the [DEV-LOG](https://github.com/ericdouglas/dev-log)
 
 * **[HTML](source/html/readme.md)**
 * **[CSS](source/css/readme.md)**
@@ -14,4 +14,5 @@
 * **[JEKYLL](source/jekyll/readme.md)**
 * **[INGLÊS](source/ingles/readme.md)**
 * **[OPINIÕES](source/opinioes/readme.md)**
-* **[DESIGN](source;design/readme.md)**
+* **[DESIGN](source/design/readme.md)**
+* **[SEO](source/seo/readme.md)**

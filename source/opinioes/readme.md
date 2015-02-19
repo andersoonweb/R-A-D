@@ -9,3 +9,4 @@
 * [Devo fazer faculdade ?](http://willianjusten.com.br/devo-fazer-faculdade/)
 * [Passado, presente e futuro do desenvolvimento web](http://imasters.com.br/desenvolvimento/passado-presente-e-futuro-desenvolvimento-web/)
 * [O dia que eu virei nômade](https://medium.com/@BuKinoshita/o-dia-que-eu-virei-nomade-95b2e9e74d35)
+* [Open Source como base](https://medium.com/@leobalter/open-source-como-base-2136b6890d)
