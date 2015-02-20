@@ -4,3 +4,4 @@
 * [How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)
 * [VIM. Um editor viciante!](http://igorcorradi.com/index.php/posts/vim-um-editor-viciante)
 * [Por que eu uso Linux](http://www.diolinux.com.br/2013/10/por-que-eu-uso-linux.html)
+* [Conhecendo o Pinguim, parte 1: Do Kurumin ao Mandriva](http://acrelinux.org/conhecendo-o-pinguim-parte-1-do-kurumin-ao-mandriva/)
