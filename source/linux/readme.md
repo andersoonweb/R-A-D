@@ -5,3 +5,4 @@
 * [VIM. Um editor viciante!](http://igorcorradi.com/index.php/posts/vim-um-editor-viciante)
 * [Por que eu uso Linux](http://www.diolinux.com.br/2013/10/por-que-eu-uso-linux.html)
 * [Conhecendo o Pinguim, parte 1: Do Kurumin ao Mandriva](http://acrelinux.org/conhecendo-o-pinguim-parte-1-do-kurumin-ao-mandriva/)
+* [Um pouco de linux](http://felipesousa.github.io/Um-pouco-de-Linux/)
