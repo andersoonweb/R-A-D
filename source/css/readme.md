@@ -1,25 +1,48 @@
 ###CSS
 * [Qual unidade utilizar – Pixel, EM ou REM](http://tableless.com.br/unidade-pixels-em-rem/)
+
 * [Porque usar ‘em’ no seu CSS hoje em dia?](http://blog.caelum.com.br/porque-usar-em-no-seu-css-hoje-em-dia/)
+
 * [Front sizing with REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
+
 * [CSS "rem" Unit support](http://ahedg.es/w/rem.html)
+
 * [Interfaces like a boss!](http://woliveiras.com.br/desenvolvendo-interfaces-like-boss/)
+
 * [Choosing great variable names](http://thesassway.com/beginner/variable-naming)
+
 * [Make full screen sections with 1 line of CSS — Medium](https://medium.com/@ckor/make-full-screen-sections-with-1-line-of-css-b82227c75cbd)
+
 * [Da necessidade de um CSS do BEM](https://medium.com/@wilfernandesjr/da-necessidade-de-um-css-do-bem-7332a10c3f8d)
+
 * [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
+
 * [Nested selectors: the inception rule](http://thesassway.com/beginner/the-inception-rule)
+
 * [http://sriharisriraman.in/blog/2013/09/08/dont-nest-css/](http://sriharisriraman.in/blog/2013/09/08/dont-nest-css/)
+
 * [Getting started with Sass and Compass](http://thesassway.com/beginner/getting-started-with-sass-and-compass)
+
 * [CSS: Taking control of the cascade](https://signalvnoise.com/posts/3003-css-taking-control-of-the-cascade)
+
 * [Using Sass with Jekyll](http://markdotto.com/2014/09/25/sass-and-jekyll/)
+
 * [CSS escalável - Parte 1](https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e)
+
 * [CSS escalável - Parte 2](https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d)
+
 * [Regex para organizar seu CSS](http://www.raphaelfabeni.com.br/organizando-css-com-regex/)
+
 * [CSS escalável - Parte 3](https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7)
+
 * [CSS escalável - Parte final](https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a)
+
 * [Examining how CSS is being used in the wild](http://reports.quickleft.com/css)
+
 * [Responsive Web Design in Sass Part 1: Fluid layouts and fluid images](http://thesassway.com/intermediate/responsive-web-design-part-1)
+
 * [Usando condicionais no Sass – Control Directives](http://tableless.com.br/usando-condicionais-sass-control-directives/)
+
 * [CSS Tips: Contadores Automáticos](http://gmoura.github.io/blog/2015/02/05/css-tips-contadores-automaticos/)
+
 * [Usando condicionais no Sass – Control Directives](http://tableless.com.br/usando-condicionais-sass-control-directives/)
