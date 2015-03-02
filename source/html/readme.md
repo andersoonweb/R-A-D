@@ -5,3 +5,5 @@
 
 * [Utilizando meta tags](https://developer.mozilla.org/pt-PT/docs/utilizando_meta_tags)
 
+* [O poder do atributo “ALT”](http://tableless.com.br/o-poder-do-atributo-alt/)
+
