@@ -11,3 +11,5 @@
 
 * [HTML/Elements/article](http://www.w3.org/wiki/HTML/Elements/article)
 
+* [Semântica HTML](https://felizardoandre.wordpress.com/2015/03/03/semantica-html/)
+
