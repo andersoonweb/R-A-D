@@ -7,3 +7,7 @@
 
 * [O poder do atributo “ALT”](http://tableless.com.br/o-poder-do-atributo-alt/)
 
+* [The article element](http://html5doctor.com/the-article-element/)
+
+* [HTML/Elements/article](http://www.w3.org/wiki/HTML/Elements/article)
+
