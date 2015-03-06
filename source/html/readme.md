@@ -13,3 +13,4 @@
 
 * [Semântica HTML](https://felizardoandre.wordpress.com/2015/03/03/semantica-html/)
 
+* [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)

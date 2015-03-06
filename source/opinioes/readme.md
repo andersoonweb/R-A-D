@@ -20,8 +20,13 @@
 * [O dia que eu virei nômade](https://medium.com/@BuKinoshita/o-dia-que-eu-virei-nomade-95b2e9e74d35)
 
 * [Open Source como base](https://medium.com/@leobalter/open-source-como-base-2136b6890d)
+
 * [Como se tornar um desenvolvedor Front End](http://willianjusten.com.br/como-se-tornar-um-desenvolvedor-front-end/)
 
 * [Dicas valiosas para sua carreira de Dev (ou de T.I.)](http://tableless.com.br/dicas-valiosas-para-sua-carreira/)
 
 * [Os 5 Pilares de um Front-End Sólido](https://medium.com/brasil/os-5-pilares-de-um-front-end-solido-fc5fb5caa982)
+
+*[Por que não encontramos desenvolvedores Front-End?](http://letanure.github.io/2015/02/10/por-que-nao-podemos-encontrar-desenvolvedores-front-end/)
+
+*

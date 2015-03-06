@@ -28,6 +28,8 @@
 
 * **[DESIGN](source/design/readme.md)**
 
+* **[SVG](source/svg/readme.md)**
+
 * **[SEO](source/seo/readme.md)**
 
 * **[EMPREENDEDORISMO](source/Empreendedorismo/readme.md)**
