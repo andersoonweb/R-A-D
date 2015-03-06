@@ -1,0 +1,1 @@
+*[Por que usar SVG?](http://willianjusten.com.br/por-que-usar-svg/)
