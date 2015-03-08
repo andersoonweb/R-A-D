@@ -14,3 +14,5 @@
 * [Semântica HTML](https://felizardoandre.wordpress.com/2015/03/03/semantica-html/)
 
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
+
+* [HTML5 - O Elemento de seção <section>](https://medium.com/@felipeoliveirah/elementos-sem%C3%A2nticos-18361b4356b)
