@@ -38,6 +38,8 @@
 
 * **[GULP](source/gulp/readme.md)**
 
+* **[VIM](source/vim/readme.md)**
+
 * **[LINUX](source/linux/readme.md)**
 
 * **[GITHUB](source/github/readme.md)**
