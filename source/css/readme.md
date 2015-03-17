@@ -1,6 +1,6 @@
 #CSS
 
-##Article in english
+##English
 * [Choosing great variable names](http://thesassway.com/beginner/variable-naming)
 
 * [Make full screen sections with 1 line of CSS — Medium](https://medium.com/@ckor/make-full-screen-sections-with-1-line-of-css-b82227c75cbd)
@@ -33,7 +33,11 @@
 
 * [Side Effects in CSS](http://philipwalton.com/articles/side-effects-in-css/)
 
-##Artigos em português
+* [Lib SASS](http://libsass.org/)
+
+* [Getting CSS Variables today](http://css3.bradshawenterprises.com/blog/css-variables/)
+
+##português
 
 * [Interfaces like a boss!](http://woliveiras.com.br/desenvolvendo-interfaces-like-boss/)
 
