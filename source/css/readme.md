@@ -37,7 +37,7 @@
 
 * [Getting CSS Variables today](http://css3.bradshawenterprises.com/blog/css-variables/)
 
-##português
+##Português
 
 * [Interfaces like a boss!](http://woliveiras.com.br/desenvolvendo-interfaces-like-boss/)
 
