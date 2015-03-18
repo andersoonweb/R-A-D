@@ -37,6 +37,8 @@
 
 * [Getting CSS Variables today](http://css3.bradshawenterprises.com/blog/css-variables/)
 
+* [CSS – One Line Justify](http://blog.vjeux.com/2011/css/css-one-line-justify.html)
+
 ##Português
 
 * [Interfaces like a boss!](http://woliveiras.com.br/desenvolvendo-interfaces-like-boss/)
