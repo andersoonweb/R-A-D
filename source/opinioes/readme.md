@@ -27,6 +27,8 @@
 
 * [Os 5 Pilares de um Front-End Sólido](https://medium.com/brasil/os-5-pilares-de-um-front-end-solido-fc5fb5caa982)
 
-*[Por que não encontramos desenvolvedores Front-End?](http://letanure.github.io/2015/02/10/por-que-nao-podemos-encontrar-desenvolvedores-front-end/)
+* [Por que não encontramos desenvolvedores Front-End?](http://letanure.github.io/2015/02/10/por-que-nao-podemos-encontrar-desenvolvedores-front-end/)
 
-*
+* [Falta de foco: o mal de uma geração?](http://eltonminetto.net/blog/2014/09/09/falta-de-foco-o-mal-de-uma-geracao/)
+
+* [Front-end, UX e Back-end](http://tableless.com.br/front-end-ux-e-back-end/)

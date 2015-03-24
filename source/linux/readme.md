@@ -11,3 +11,9 @@
 * [Conhecendo o Pinguim, parte 1: Do Kurumin ao Mandriva](http://acrelinux.org/conhecendo-o-pinguim-parte-1-do-kurumin-ao-mandriva/)
 
 * [Um pouco de linux](http://felipesousa.github.io/Um-pouco-de-Linux/)
+
+* [Dicas de terminal](http://udgwebdev.com/dicas-de-terminal/)
+
+* [Baixando sites com comando wget](http://udgwebdev.com/baixando-sites-com-comando-wget/)
+
+* [Programador Produtivo](http://udgwebdev.com/programador-produtivo/)

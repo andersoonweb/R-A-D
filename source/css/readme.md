@@ -39,6 +39,8 @@
 
 * [CSS – One Line Justify](http://blog.vjeux.com/2011/css/css-one-line-justify.html)
 
+* [Creating a Box shadow @mixin using SASS](http://stackoverflow.com/questions/10435056/creating-a-box-shadow-mixin-using-sass)
+
 ##Português
 
 * [Interfaces like a boss!](http://woliveiras.com.br/desenvolvendo-interfaces-like-boss/)
