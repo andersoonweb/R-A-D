@@ -9,7 +9,7 @@
 
 * [Nested selectors: the inception rule](http://thesassway.com/beginner/the-inception-rule)
 
-* [You Probably Shouldn't Be Nesting Your CSS](http://sriharisriraman.in/blog/2013/09/08/dont-nest-css/)
+* [You Probably Shouldnt Be Nesting Your CSS](http://sriharisriraman.in/blog/2013/09/08/dont-nest-css/)
 
 * [Getting started with Sass and Compass](http://thesassway.com/beginner/getting-started-with-sass-and-compass)
 
@@ -61,3 +61,4 @@
 
 * [Usando condicionais no Sass – Control Directives](http://tableless.com.br/usando-condicionais-sass-control-directives/)
 
+* [Drops 15 – Eu era contra pré-processadores](http://tableless.com.br/drops-15-eu-era-contra-pre-processadores/)

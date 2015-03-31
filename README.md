@@ -18,8 +18,6 @@
 
 * **[WORKFLOW](source/workflow/readme.md)**
 
-* **[INBOX](source/inbox/readme.md)**
-
 * **[JEKYLL](source/jekyll/readme.md)**
 
 * **[INGLÊS](source/ingles/readme.md)**
