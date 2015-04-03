@@ -17,5 +17,3 @@
 * [Baixando sites com comando wget](http://udgwebdev.com/baixando-sites-com-comando-wget/)
 
 * [Programador Produtivo](http://udgwebdev.com/programador-produtivo/)
-
-* [Alinar icones] (http://www.vivaolinux.com.br/topico/Desktops/Alinhar-Icones)
