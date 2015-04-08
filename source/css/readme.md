@@ -62,3 +62,5 @@
 * [Usando condicionais no Sass – Control Directives](http://tableless.com.br/usando-condicionais-sass-control-directives/)
 
 * [Drops 15 – Eu era contra pré-processadores](http://tableless.com.br/drops-15-eu-era-contra-pre-processadores/)
+
+* [What nobody tells you about will-change](http://cssmojo.com/the-dark-side-of-the-will-change-property/)

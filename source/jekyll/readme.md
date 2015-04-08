@@ -9,3 +9,5 @@
 * [Perguntas e Respostas - Jekyll](http://willianjusten.com.br/perguntas-e-respostas-jekyll/)
 
 * [Make Your Own Social Sharing Bar with Jekyll](http://zhangwenli.com/blog/2014/08/03/make-your-own-social-sharing-bar-with-jekyll/)
+
+* [Jekyll list all posts](https://gist.github.com/erjjones/1998382)
