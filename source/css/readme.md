@@ -66,3 +66,7 @@
 * [What nobody tells you about will-change](http://cssmojo.com/the-dark-side-of-the-will-change-property/)
 
 * [OOCSS Revised - Suissa version](http://nomadev.com.br/oocss-revisado-suissa-version/)
+
+* [Entenda como funcionam as Cores no CSS](http://feniman.net/post-entenda-como-funcionam-as-cores-no-css)
+
+* [Change an inputs HTML5 placeholder color with CSS](http://stackoverflow.com/questions/2610497/change-an-inputs-html5-placeholder-color-with-css)
