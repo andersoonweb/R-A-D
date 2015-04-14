@@ -4,4 +4,4 @@
 
 * [Um futuro chamado Javascript Isomórfico](https://medium.com/pensamentos-js/um-futuro-chamado-javascript-isomorfico-fa43af60d132)
 
-
+* [How to forget about jQuery and start using native JavaScript APIs](http://blog.romanliutikov.com/post/63383858003/how-to-forget-about-jquery-and-start-using-native)

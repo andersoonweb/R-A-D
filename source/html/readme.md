@@ -16,3 +16,5 @@
 * [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 
 * [HTML5 - O Elemento de seção <section>](https://medium.com/@felipeoliveirah/elementos-sem%C3%A2nticos-18361b4356b)
+
+* [Novos atributos para links no HTML 5](http://codigofonte.uol.com.br/artigos/novos-atributos-para-links-no-html-5)
