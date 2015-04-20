@@ -1,1 +1,0 @@
-* [Empreendedor, tenha consultoria GRÁTIS com Marco Gomes](http://140mba.com.br/)
