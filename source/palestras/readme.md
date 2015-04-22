@@ -9,3 +9,4 @@
 
 * [7Masters CSS | Filtros com CSS, por Deivid Marques](https://www.youtube.com/watch?v=1XeFA-9xRDI)
 
+* [Bootstrap: The right way por Luiz Tiago Alves - RuPy Brazil 2014](https://www.youtube.com/watch?v=ucn7w1CZGTs)
