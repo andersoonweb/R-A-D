@@ -1,72 +1,33 @@
 #CSS
-
-##English
-* [Choosing great variable names](http://thesassway.com/beginner/variable-naming)
-
-* [Make full screen sections with 1 line of CSS — Medium](https://medium.com/@ckor/make-full-screen-sections-with-1-line-of-css-b82227c75cbd)
-
-* [How to structure a Sass project](http://thesassway.com/beginner/how-to-structure-a-sass-project)
-
-* [Nested selectors: the inception rule](http://thesassway.com/beginner/the-inception-rule)
-
-* [You Probably Shouldnt Be Nesting Your CSS](http://sriharisriraman.in/blog/2013/09/08/dont-nest-css/)
-
-* [Getting started with Sass and Compass](http://thesassway.com/beginner/getting-started-with-sass-and-compass)
-
-* [CSS: Taking control of the cascade](https://signalvnoise.com/posts/3003-css-taking-control-of-the-cascade)
-
-* [Using Sass with Jekyll](http://markdotto.com/2014/09/25/sass-and-jekyll/)
-
-* [Examining how CSS is being used in the wild](http://reports.quickleft.com/css)
-
-* [Responsive Web Design in Sass Part 1: Fluid layouts and fluid images](http://thesassway.com/intermediate/responsive-web-design-part-1)
-
-* [CSS Tips: Contadores Automáticos](http://gmoura.github.io/blog/2015/02/05/css-tips-contadores-automaticos/)
-
-* [Qual unidade utilizar – Pixel, EM ou REM](http://tableless.com.br/unidade-pixels-em-rem/)
-
-* [Porque usar ‘em’ no seu CSS hoje em dia?](http://blog.caelum.com.br/porque-usar-em-no-seu-css-hoje-em-dia/)
-
-* [Front sizing with REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
-
-* [CSS "rem" Unit support](http://ahedg.es/w/rem.html)
-
-* [Side Effects in CSS](http://philipwalton.com/articles/side-effects-in-css/)
-
-* [Lib SASS](http://libsass.org/)
-
-* [Getting CSS Variables today](http://css3.bradshawenterprises.com/blog/css-variables/)
-
-* [CSS – One Line Justify](http://blog.vjeux.com/2011/css/css-one-line-justify.html)
-
-* [Creating a Box shadow @mixin using SASS](http://stackoverflow.com/questions/10435056/creating-a-box-shadow-mixin-using-sass)
-
-##Português
-
-* [Interfaces like a boss!](http://woliveiras.com.br/desenvolvendo-interfaces-like-boss/)
-
-* [Da necessidade de um CSS do BEM](https://medium.com/@wilfernandesjr/da-necessidade-de-um-css-do-bem-7332a10c3f8d)
-
-* [CSS escalável - Parte 1](https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e)
-
-* [CSS escalável - Parte 2](https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d)
-
-* [Regex para organizar seu CSS](http://www.raphaelfabeni.com.br/organizando-css-com-regex/)
-
-* [CSS escalável - Parte 3](https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7)
-
-* [CSS escalável - Parte final](https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a)
-
-* [Usando condicionais no Sass – Control Directives](http://tableless.com.br/usando-condicionais-sass-control-directives/)
-
-* [Usando condicionais no Sass – Control Directives](http://tableless.com.br/usando-condicionais-sass-control-directives/)
-
-* [Drops 15 – Eu era contra pré-processadores](http://tableless.com.br/drops-15-eu-era-contra-pre-processadores/)
-
-* [What nobody tells you about will-change](http://cssmojo.com/the-dark-side-of-the-will-change-property/)
-
-* [OOCSS Revised - Suissa version](http://nomadev.com.br/oocss-revisado-suissa-version/)
-
-* [Entenda como funcionam as Cores no CSS](http://feniman.net/post-entenda-como-funcionam-as-cores-no-css)
-
-* [Change an inputs HTML5 placeholder color with CSS](http://stackoverflow.com/questions/2610497/change-an-inputs-html5-placeholder-color-with-css)
+1. [Make full screen sections with 1 line of CSS — Medium](https://medium.com/@ckor/make-full-screen-sections-with-1-line-of-css-b82227c75cbd)
+1. [CSS: Taking control of the cascade](https://signalvnoise.com/posts/3003-css-taking-control-of-the-cascade)
+1. [Examining how CSS is being used in the wild](http://reports.quickleft.com/css)
+1. [CSS Tips: Contadores Automáticos](http://gmoura.github.io/blog/2015/02/05/css-tips-contadores-automaticos/)
+1. [Qual unidade utilizar – Pixel, EM ou REM](http://tableless.com.br/unidade-pixels-em-rem/)
+1. [Porque usar ‘em’ no seu CSS hoje em dia?](http://blog.caelum.com.br/porque-usar-em-no-seu-css-hoje-em-dia/)
+1. [Front sizing with REM](http://snook.ca/archives/html_and_css/font-size-with-rem)
+1. [CSS "rem" Unit support](http://ahedg.es/w/rem.html)
+1. [Side Effects in CSS](http://philipwalton.com/articles/side-effects-in-css/)
+1. [CSS – One Line Justify](http://blog.vjeux.com/2011/css/css-one-line-justify.html)
+1. [Interfaces like a boss!](http://woliveiras.com.br/desenvolvendo-interfaces-like-boss/)
+1. [Da necessidade de um CSS do BEM](https://medium.com/@wilfernandesjr/da-necessidade-de-um-css-do-bem-7332a10c3f8d)
+1. [CSS escalável - Parte 1](https://medium.com/@shankarcabus/css-escalavel-parte-1-41e7e863799e)
+1. [CSS escalável - Parte 2](https://medium.com/@shankarcabus/css-escalavel-parte-2-acb9f0144c9d)
+1. [Regex para organizar seu CSS](http://www.raphaelfabeni.com.br/organizando-css-com-regex/)
+1. [CSS escalável - Parte 3](https://medium.com/@shankarcabus/css-escalavel-parte-3-b970ae49acb7)
+1. [CSS escalável - Parte final](https://medium.com/@shankarcabus/css-escalavel-parte-final-ff845a62ec4a)
+1. [What nobody tells you about will-change](http://cssmojo.com/the-dark-side-of-the-will-change-property/)
+1. [OOCSS Revised - Suissa version](http://nomadev.com.br/oocss-revisado-suissa-version/)
+1. [Entenda como funcionam as Cores no CSS](http://feniman.net/post-entenda-como-funcionam-as-cores-no-css)
+1. [Change an inputs HTML5 placeholder color with CSS](http://stackoverflow.com/questions/2610497/change-an-inputs-html5-placeholder-color-with-css)
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
+1.
