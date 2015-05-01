@@ -1,1 +1,1 @@
-* [2014 retrospective](http://zenorocha.com/2014-retrospective/)
+1. [2014 retrospective](http://zenorocha.com/2014-retrospective/)

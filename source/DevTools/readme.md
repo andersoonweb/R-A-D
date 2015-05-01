@@ -1,1 +1,1 @@
-* [Dev Tips](https://umaar.com/dev-tips/)
+1. [Dev Tips](https://umaar.com/dev-tips/)

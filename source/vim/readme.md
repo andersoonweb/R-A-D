@@ -1,1 +1,2 @@
 * [Como instalar Plugins no Vim](http://www.pinceladasdaweb.com.br/blog/2014/02/17/como-instalar-plugins-no-vim/)
+1. [VIM. Um editor viciante!](http://igorcorradi.com/index.php/posts/vim-um-editor-viciante)

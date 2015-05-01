@@ -1,21 +1,10 @@
-###Linux
-* [Como ser um dev frontend usando Linux](http://blog.da2k.com.br/2015/01/15/como-ser-um-dev-frontend-usando-linux/)
-
-* [Unix: A base de tudo](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
-* [How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)
-
-* [VIM. Um editor viciante!](http://igorcorradi.com/index.php/posts/vim-um-editor-viciante)
-
-* [Por que eu uso Linux](http://www.diolinux.com.br/2013/10/por-que-eu-uso-linux.html)
-
-* [Conhecendo o Pinguim, parte 1: Do Kurumin ao Mandriva](http://acrelinux.org/conhecendo-o-pinguim-parte-1-do-kurumin-ao-mandriva/)
-
-* [Um pouco de linux](http://felipesousa.github.io/Um-pouco-de-Linux/)
-
-* [Dicas de terminal](http://udgwebdev.com/dicas-de-terminal/)
-
-* [Baixando sites com comando wget](http://udgwebdev.com/baixando-sites-com-comando-wget/)
-
-* [Programador Produtivo](http://udgwebdev.com/programador-produtivo/)
-
-* [Alinar icones] (http://www.vivaolinux.com.br/topico/Desktops/Alinhar-Icones)
+1. [Como ser um dev frontend usando Linux](http://blog.da2k.com.br/2015/01/15/como-ser-um-dev-frontend-usando-linux/)
+1.[Unix: A base de tudo](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
+1. [How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)
+1. [Por que eu uso Linux](http://www.diolinux.com.br/2013/10/por-que-eu-uso-linux.html)
+1. [Conhecendo o Pinguim, parte 1: Do Kurumin ao Mandriva](http://acrelinux.org/conhecendo-o-pinguim-parte-1-do-kurumin-ao-mandriva/)
+1. [Um pouco de linux](http://felipesousa.github.io/Um-pouco-de-Linux/)
+1. [Dicas de terminal](http://udgwebdev.com/dicas-de-terminal/)
+1. [Baixando sites com comando wget](http://udgwebdev.com/baixando-sites-com-comando-wget/)
+1. [Programador Produtivo](http://udgwebdev.com/programador-produtivo/)
+1. [Alinar icones] (http://www.vivaolinux.com.br/topico/Desktops/Alinhar-Icones)

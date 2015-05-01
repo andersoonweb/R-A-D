@@ -1,10 +1,6 @@
-* [Sublime Text: BracketHighlighter - YouTube](https://www.youtube.com/watch?v=Cc-8W7qBu9Q)
-
-* [An introduction to using FireShell](https://www.youtube.com/watch?v=A_8w_z-Bi1o)
-
-* [Barra fixa suspensa com position:fixed](https://www.youtube.com/watch?v=17bJkxttGh4)
-
-* [Adobe Project PArfait (Beta)](https://www.youtube.com/watch?v=PM966FuFVAM)
-
-* [Criando páginas com GitHub Pages](https://www.youtube.com/watch?v=2Aj1U6aYn10)
+1. [Sublime Text: BracketHighlighter - YouTube](https://www.youtube.com/watch?v=Cc-8W7qBu9Q)
+1. [An introduction to using FireShell](https://www.youtube.com/watch?v=A_8w_z-Bi1o)
+1. [Barra fixa suspensa com position:fixed](https://www.youtube.com/watch?v=17bJkxttGh4)
+1. [Adobe Project PArfait (Beta)](https://www.youtube.com/watch?v=PM966FuFVAM)
+1. [Criando páginas com GitHub Pages](https://www.youtube.com/watch?v=2Aj1U6aYn10)
 

@@ -28,6 +28,9 @@
 1. **[Open source](source/open-source/readme.md)**
 1. **[Palestras](source/palestras/readme.md)**
 1. **[Performace](source/performace/readme.md)**
+1. **[Problemas](source/problemas/readme.md)**
+1. **[Respectivas](source/respectivas/readme.md)**
+1. **[Sass](source/sass/readme.md)**
 1. **[Screencast](source/screencast/readme.md)**
 1. **[SEO](source/seo/readme.md)**
 1. **[Soluções](source/solucoes/readme.md)**
