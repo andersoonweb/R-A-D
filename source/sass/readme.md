@@ -10,7 +10,7 @@
 1. [Getting started with Sass and Compass](http://thesassway.com/beginner/getting-started-with-sass-and-compass)
 1. [Using Sass with Jekyll](http://markdotto.com/2014/09/25/sass-and-jekyll/)
 1. [Responsive Web Design in Sass Part 1: Fluid layouts and fluid images](http://thesassway.com/intermediate/responsive-web-design-part-1)
-1.
+1. [Grid simples com SASS](http://tableless.com.br/grid-simples-com-sass/)
 1.
 1.
 1.

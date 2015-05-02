@@ -1,4 +1,3 @@
-###HTML
 1. [Meta Tags X-UA-Compatible e Charset](http://blog.da2k.com.br/2015/01/01/meta-tags-x-ua-compatible-e-charset/)
 1. [Using Meta Tags in HTML: Some Basics and Best Practices](http://www.sitepoint.com/meta-tags-html-basics-best-practices/)
 1. [Utilizando meta tags](https://developer.mozilla.org/pt-PT/docs/utilizando_meta_tags)
@@ -9,3 +8,4 @@
 1. [Frontend Guidelines](https://github.com/bendc/frontend-guidelines)
 1. [HTML5 - O Elemento de seção <section>](https://medium.com/@felipeoliveirah/elementos-sem%C3%A2nticos-18361b4356b)
 1. [Novos atributos para links no HTML 5](http://codigofonte.uol.com.br/artigos/novos-atributos-para-links-no-html-5)
+1. [HTML: Encode UTF-8](http://tableless.com.br/html-encode-utf-8/)
