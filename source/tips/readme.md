@@ -3,3 +3,4 @@
 1. [Coisa que eu gostaria que alguém tivesse me dito quando eu estava aprenendo a programar](http://jcfausto.com/coisas-que-eu-gostaria-que-alguem-tivesse-me-dito-quando-eu-estava-aprendendo-a-programar/)
 1. [Aprenda português antes de ter um blog](https://medium.com/@felquis/aprenda-portugues-antes-de-ter-um-blog-a2647d913a45)
 1. [Falta de foco: o mal de uma geração?](http://eltonminetto.net/blog/2014/09/09/falta-de-foco-o-mal-de-uma-geracao/)
+1. [6 dicas para se dar bem em freelas e trabalhos remotos](https://medium.com/brasil/6-dicas-para-se-dar-bem-em-freelas-e-trabalhos-remotos-76d2cccc0159)
