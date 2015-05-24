@@ -20,14 +20,9 @@
 1. [OOCSS Revised - Suissa version](http://nomadev.com.br/oocss-revisado-suissa-version/)
 1. [Entenda como funcionam as Cores no CSS](http://feniman.net/post-entenda-como-funcionam-as-cores-no-css)
 1. [Change an inputs HTML5 placeholder color with CSS](http://stackoverflow.com/questions/2610497/change-an-inputs-html5-placeholder-color-with-css)
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
-1.
+1. [Propriedade @font-face CSS – Fonts externas na web](http://tableless.com.br/font-face-fonts-externas-na-web/)
+1. []()
+1. []()
+1. []()
+1. []()
+1. []()

@@ -4,3 +4,4 @@
 1. [Aprenda português antes de ter um blog](https://medium.com/@felquis/aprenda-portugues-antes-de-ter-um-blog-a2647d913a45)
 1. [Falta de foco: o mal de uma geração?](http://eltonminetto.net/blog/2014/09/09/falta-de-foco-o-mal-de-uma-geracao/)
 1. [6 dicas para se dar bem em freelas e trabalhos remotos](https://medium.com/brasil/6-dicas-para-se-dar-bem-em-freelas-e-trabalhos-remotos-76d2cccc0159)
+1. [8 motivos pra programar em inglês](http://blog.lucascaton.com.br/index.php/2015/05/22/8-motivos-pra-programar-em-ingles/)
