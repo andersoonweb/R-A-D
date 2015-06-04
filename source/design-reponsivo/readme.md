@@ -2,3 +2,6 @@
 1. [Design Responsivo II – Grids e Texto](http://blog.popupdesign.com.br/design-responsivo-grids-e-texto/)
 1. [Design Responsivo III – Media Queries e Compatibilidade](http://blog.popupdesign.com.br/design-responsivo-iii-media-queries-e-compatibilidade/)
 1. [Pixels, pixels ou pixels? Dicas de Web Mobile com viewport](http://blog.caelum.com.br/pixels-pixels-ou-pixels-dicas-de-web-mobile-com-viewport/#comments)
+1. [Design Responsivo por uma Web Única](http://sergiolopes.org/responsive-web-design/)
+1. [Web Design Responsivo: as melhores referências em português pra você aprender do básico ao avançado](http://sergiolopes.org/diretorio-design-responsivo/)
+
