@@ -3,3 +3,4 @@
 1. [Front-end, UX e Back-end](http://tableless.com.br/front-end-ux-e-back-end/)
 1. [Por que não encontramos desenvolvedores Front-End?](http://letanure.github.io/2015/02/10/por-que-nao-podemos-encontrar-desenvolvedores-front-end/)
 1. [Os 5 Pilares de um Front-End Sólido](https://medium.com/brasil/os-5-pilares-de-um-front-end-solido-fc5fb5caa982)
+1. [Sobre trabalhar remoto](http://www.felipefialho.com/blog/2015/sobre-trabalhar-remoto/#.VXj1rXUViko)
