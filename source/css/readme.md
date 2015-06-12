@@ -22,7 +22,7 @@
 1. [Change an inputs HTML5 placeholder color with CSS](http://stackoverflow.com/questions/2610497/change-an-inputs-html5-placeholder-color-with-css)
 1. [Propriedade @font-face CSS – Fonts externas na web](http://tableless.com.br/font-face-fonts-externas-na-web/)
 1. [Organizando CSS em Projetos Complexos #1]http://blog.taller.net.br/organizando-css-em-projetos-complexos/()
-1. []()
+1. [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
 1. []()
 1. []()
 1. []()
