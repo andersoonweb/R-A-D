@@ -23,6 +23,6 @@
 1. [Propriedade @font-face CSS – Fonts externas na web](http://tableless.com.br/font-face-fonts-externas-na-web/)
 1. [Organizando CSS em Projetos Complexos #1]http://blog.taller.net.br/organizando-css-em-projetos-complexos/()
 1. [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
-1. []()
+1. [Trabalhando corretamente com o CSS](http://tableless.com.br/trabalhando-corretamente-com-o-css/)
 1. []()
 1. []()
