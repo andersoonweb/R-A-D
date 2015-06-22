@@ -10,3 +10,4 @@
 1. [Novos atributos para links no HTML 5](http://codigofonte.uol.com.br/artigos/novos-atributos-para-links-no-html-5)
 1. [HTML: Encode UTF-8](http://tableless.com.br/html-encode-utf-8/)
 1. [O divórcio entre o PSD e o HTML](http://arquiteturadeinformacao.com/responsive-design/o-divorcio-entre-o-psd-e-o-html/?utm_content=buffer262a5&utm_medium=social&utm_source=facebook.com&utm_campaign=buffer)
+1. [Introdução a Microdata no HTML5](http://tableless.com.br/introducao-a-microdata-no-html5/)
