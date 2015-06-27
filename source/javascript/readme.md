@@ -5,3 +5,5 @@
 1. [Por que você deve aprender JavaScript?](https://medium.com/@fredamsouza/por-que-voc%C3%AA-deve-aprender-javascript-92b7ea02580a)
 1. [Eloquente Javascript](http://eloquentjavascript.net/)
 	* [Introdução](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/00-introducao.md)
+
+1. [Javascript - O operador +](http://blog.da2k.com.br/2015/06/25/javascript-o-operador-plus/)
