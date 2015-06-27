@@ -5,3 +5,4 @@
 1. [Design Responsivo por uma Web Única](http://sergiolopes.org/responsive-web-design/)
 1. [Web Design Responsivo: as melhores referências em português pra você aprender do básico ao avançado](http://sergiolopes.org/diretorio-design-responsivo/)
 1. [Review do livro "Web Design Responsivo" do Tárcio Zemel](http://sergiolopes.org/review-livro-web-design-responsivo-tarcio-zemel/)
+1. [Design Responsivo na prática: do rascunho ao digital](http://tableless.com.br/design-responsivo-na-pratica-do-rascunho-ao-digita/)
