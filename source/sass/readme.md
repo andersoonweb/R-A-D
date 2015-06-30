@@ -11,7 +11,7 @@
 1. [Using Sass with Jekyll](http://markdotto.com/2014/09/25/sass-and-jekyll/)
 1. [Responsive Web Design in Sass Part 1: Fluid layouts and fluid images](http://thesassway.com/intermediate/responsive-web-design-part-1)
 1. [Grid simples com SASS](http://tableless.com.br/grid-simples-com-sass/)
-1.
+1. [GETTING STARTED WITH SASS AND BREAKPOINT MIXIN](http://responsivedesign.is/develop/getting-started-with-sass)
 1.
 1.
 1.

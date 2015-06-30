@@ -24,5 +24,5 @@
 1. [Organizando CSS em Projetos Complexos #1]http://blog.taller.net.br/organizando-css-em-projetos-complexos/()
 1. [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
 1. [Trabalhando corretamente com o CSS](http://tableless.com.br/trabalhando-corretamente-com-o-css/)
-1. []()
+1. [ALGUNS SELETORES CSS IMPORTANTES PARA APRENDER](http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/)
 1. []()
