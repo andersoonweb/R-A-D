@@ -7,3 +7,7 @@
 	* [Introdução](https://github.com/braziljs/eloquente-javascript/blob/master/chapters/00-introducao.md)
 
 1. [Javascript - O operador +](http://blog.da2k.com.br/2015/06/25/javascript-o-operador-plus/)
+1. [Declaração de variáveis com JavaScript](http://templecoding.com/blog/2012/10/25/declarao-de-variveis-com-javascript/)
+1. [Elevação em JavaScript](http://templecoding.com/blog/2012/11/05/elevao-em-javascript/)
+1. [JavaScript e o problema com o ponto e vírgula](http://templecoding.com/blog/2012/11/21/javascript-ponto-virgula/)
+1. []()
