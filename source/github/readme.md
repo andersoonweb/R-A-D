@@ -9,3 +9,4 @@
 1. [Manter repositório do Github forkado sincronizado com o original](Manter repositório do Github forkado sincronizado com o original)
 1. [Contribuindo para projetos Open Source no Github mesmo sendo iniciante](http://woliveiras.com.br/contribuindo-para-projetos-open-source-no-github-mesmo-sendo-iniciante/)
 1. [Segredos do Github - Commits que fecham issues](http://blog.da2k.com.br/2015/02/18/segredos-do-github-commits-que-fecham-issues/)
+1. [Why I Chose GitHub repositories for Code Articles](https://medium.com/@ericdouglas_/why-i-chose-github-repositories-for-code-articles-d72d9c1034e6)
