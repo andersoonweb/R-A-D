@@ -25,4 +25,4 @@
 1. [Aprenda Layout com CSS](http://pt-br.learnlayout.com/)
 1. [Trabalhando corretamente com o CSS](http://tableless.com.br/trabalhando-corretamente-com-o-css/)
 1. [ALGUNS SELETORES CSS IMPORTANTES PARA APRENDER](http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/)
-1. []()
+1. [::after is a generated content element that represents a styleable abstract last child of the respective element.](http://tympanus.net/codrops/css_reference/after/)
