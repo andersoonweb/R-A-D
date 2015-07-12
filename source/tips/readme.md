@@ -7,3 +7,4 @@
 1. [8 motivos pra programar em inglês](http://blog.lucascaton.com.br/index.php/2015/05/22/8-motivos-pra-programar-em-ingles/)
 1. [Como ter superpoderes na programação](https://www.javascriptmasters.com.br/blog/mindfulness/como-ter-superpoderes-na-programacao/)
 1. [Melhor aplicativo para meditação](https://www.javascriptmasters.com.br/blog/mindfulness/melhor-aplicativo-para-meditacao/)
+1. [Coisas Que Eu Gostaria Que Alguém Tivesse Me Dito Quando Eu Estava Aprendendo a Programar](http://jcfausto.com/coisas-que-eu-gostaria-que-alguem-tivesse-me-dito-quando-eu-estava-aprendendo-a-programar/)

@@ -24,13 +24,13 @@
 1. **[Grunt](source/grunt-js/readme.md)**
 1. **[HTML](source/html/readme.md)**
 1. **[HTTP2](source/http2/readme.md)**
-1. **[Image Magick](source/ImageMargick/readme.md)**
+1. **[Image Magick](source/ImageMagick/readme.md)**
 1. **[Inglês](source/ingles/readme.md)**
-1. **[Interview](source/iterview/readme.md)**
+1. **[Interview](source/interview/readme.md)**
 1. **[Javascript](source/javascript/readme.md)**
 1. **[Jekyll](source/jekyll/readme.md)**
 1. **[jQuery](source/jquery/readme.md)**
-1. **[Legancy code](source/legancy-code/readme.md)**
+1. **[Legacy code](source/legacy-code/readme.md)**
 1. **[Linux](source/linux/readme.md)**
 1. **[Mobile](source/mobile/readme.md)**
 1. **[Motivação](source/motivacao/readme.md)**
@@ -49,7 +49,7 @@
 1. **[Share](source/share/readme.md)**
 1. **[Soluções](source/soluções-de-erro/readme.md)**
 1. **[SVG](source/svg/readme.md)**
-1. **[Técnicas](source/tecnica/readme.md)**
+1. **[Técnicas](source/técnica/readme.md)**
 1. **[Tips](source/tips/readme.md)**
 1. **[VIM](source/vim/readme.md)**
 1. **[Wordpress](source/wordpress/readme.md)**
