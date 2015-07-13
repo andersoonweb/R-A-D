@@ -35,6 +35,7 @@
 1. **[Mobile](source/mobile/readme.md)**
 1. **[Motivação](source/motivacao/readme.md)**
 1. **[NodeJs](source/nodejs/readme.md)**
+1. **[NPM](source/npm/readme.md)**
 1. **[Open Graph](source/open-graph/readme.md)**
 1. **[Open source](source/open-source/readme.md)**
 1. **[Opinioes](source/opinioes/readme.md)**

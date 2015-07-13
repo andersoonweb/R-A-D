@@ -27,3 +27,5 @@
 1. [ALGUNS SELETORES CSS IMPORTANTES PARA APRENDER](http://willianjusten.com.br/alguns-seletores-css-importantes-para-aprender/)
 1. [::after is a generated content element that represents a styleable abstract last child of the respective element.](http://tympanus.net/codrops/css_reference/after/)
 1. [Propriedade do CSS: nth-child](http://tableless.com.br/nth-child/)
+1. [nth-child() e calc() – Uma proposta para o abandono de frameworks de grids responsivos](http://tableless.com.br/nth-child-calc-responsivos/)
+1. [A função calc() das CSS](http://www.maujor.com/tutorial/css3-funcao-css-calc.php)
