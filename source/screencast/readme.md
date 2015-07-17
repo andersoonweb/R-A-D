@@ -3,4 +3,4 @@
 1. [Barra fixa suspensa com position:fixed](https://www.youtube.com/watch?v=17bJkxttGh4)
 1. [Adobe Project PArfait (Beta)](https://www.youtube.com/watch?v=PM966FuFVAM)
 1. [Criando páginas com GitHub Pages](https://www.youtube.com/watch?v=2Aj1U6aYn10)
-
+1. [Node GH - Todo poder do GitHub no seu terminal](https://www.youtube.com/watch?v=DaE98OR85rs)
