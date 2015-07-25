@@ -10,4 +10,4 @@
 1. [Declaração de variáveis com JavaScript](http://templecoding.com/blog/2012/10/25/declarao-de-variveis-com-javascript/)
 1. [Elevação em JavaScript](http://templecoding.com/blog/2012/11/05/elevao-em-javascript/)
 1. [JavaScript e o problema com o ponto e vírgula](http://templecoding.com/blog/2012/11/21/javascript-ponto-virgula/)
-1. []()
+1. [Programação Funcional Deve Ser Sua Prioridade número #1 em 2015](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/009-programacao-funcional-prioridade-2015.md#programação-funcional-deve-ser-sua-prioridade-número-1-em-2015)
