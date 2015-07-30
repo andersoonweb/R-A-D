@@ -11,3 +11,5 @@
 1. [JavaScript e o problema com o ponto e vírgula](http://templecoding.com/blog/2012/11/21/javascript-ponto-virgula/)
 1. [Programação Funcional Deve Ser Sua Prioridade número #1 em 2015](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/009-programacao-funcional-prioridade-2015.md#programação-funcional-deve-ser-sua-prioridade-número-1-em-2015)
 1. [A propriedade length das funções no Javascript](https://medium.com/@luisvinicius/a-propriedade-length-das-fun%C3%A7%C3%B5es-no-javascript-33cfdf28f4da)
+1. [Funções imediatas JavaScript (IIFE)](http://pedrotcaraujo.github.io/2014/12/01/funcoes-imediatas-IIFE/)
+1. [O JavaScript](http://www.frontendpath.com/guia/o-javascript.html)
