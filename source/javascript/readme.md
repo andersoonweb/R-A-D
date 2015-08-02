@@ -13,3 +13,5 @@
 1. [A propriedade length das funções no Javascript](https://medium.com/@luisvinicius/a-propriedade-length-das-fun%C3%A7%C3%B5es-no-javascript-33cfdf28f4da)
 1. [Funções imediatas JavaScript (IIFE)](http://pedrotcaraujo.github.io/2014/12/01/funcoes-imediatas-IIFE/)
 1. [O JavaScript](http://www.frontendpath.com/guia/o-javascript.html)
+1. [JavaScript: Objetos Literais vs. Funções Construtoras](http://tableless.com.br/javascript-objetos-literais-vs-funcoes-construtoras/)
+1. [As múltiplas personalidades do this em JavaScript](http://blog.caelum.com.br/as-multiplas-personalidades-do-this-em-javascript/)
