@@ -2,3 +2,4 @@
 1. [Commit Wars](https://medium.com/@afonsopacifer/commit-wars-5c51ddd837cd)
 1. [Commit Wars Episode II Ataque dos Clones](https://medium.com/@afonsopacifer/commit-wars-a6cd5372b46)
 1. [Interview: How to Join a Major Open Source Project](http://www.sitepoint.com/interview-join-major-open-source-project/)
+1. [How talks affect an open source project?](https://medium.com/developer-relations/how-talks-affect-an-open-source-project-e4dd1db81a6d?ct=t(BrazilJS_Weekly_468_9_2013))
