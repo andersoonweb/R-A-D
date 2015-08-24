@@ -15,3 +15,4 @@
 1. [O JavaScript](http://www.frontendpath.com/guia/o-javascript.html)
 1. [JavaScript: Objetos Literais vs. Funções Construtoras](http://tableless.com.br/javascript-objetos-literais-vs-funcoes-construtoras/)
 1. [As múltiplas personalidades do this em JavaScript](http://blog.caelum.com.br/as-multiplas-personalidades-do-this-em-javascript/)
+1. [Objetos JavaScript em Detalhe](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/002-objetos-js-em-detalhe.md#objetos-javascript-em-detalhe)
