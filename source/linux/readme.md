@@ -9,3 +9,4 @@
 1. [Programador Produtivo](http://udgwebdev.com/programador-produtivo/)
 1. [Alinar icones](http://www.vivaolinux.com.br/topico/Desktops/Alinhar-Icones)
 1. [Saiba como criar seus próprios comandos no Linux usando Alias](http://www.linuxdescomplicado.com.br/2015/06/criar-comandos-usando-alias.html)
+1. [How to open file with default application from command line?](http://askubuntu.com/questions/15354/how-to-open-file-with-default-application-from-command-line)

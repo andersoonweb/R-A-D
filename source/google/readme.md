@@ -1,0 +1,3 @@
+1. [O novo logo do Google é mais genial do que você imagina!!](https://www.linkedin.com/pulse/o-novo-logo-do-google-%C3%A9-mais-genial-que-voc%C3%AA-imagina-victor-vasques)
+1. [Como o Google (finalmente) reduziu o consumo de RAM e bateria do Chrome](https://tecnoblog.net/184610/chrome-45-consumo-ram-bateria/)
+1. [O NOVO LOGO DO GOOGLE É MAIS GENIAL DO QUE VOCÊ IMAGINA](http://comlimao.com/2015/09/01/o-novo-logo-do-google-e-mais-genial-do-que-voce-imagina/)

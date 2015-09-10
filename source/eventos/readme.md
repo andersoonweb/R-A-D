@@ -1,1 +1,6 @@
-1 .[1ª Conferência CSS Brasil](http://blog.henriquesilver.io/eventos/conferencia-css-brasil-2015/)
+1. [1ª Conferência CSS Brasil](http://blog.henriquesilver.io/eventos/conferencia-css-brasil-2015/)
+1. [ROCK, MEATS, JAVASCRIPT – BRAZILJS 2015](http://christianheilmann.com/2015/08/25/rock-meats-javascript-braziljs-2015/)
+1. [BrazilJS 2015](http://blog.icaromh.com/braziljs-2015/)
+1. [A minha missão no Braziljs](http://raphamorim.com/missao-braziljs/)
+1. [Como eu vi a BrazilJS 2015](https://diessi.ca/blog/como-eu-vi-a-braziljs-2015/)
+1. [Valeu BrazilJS](http://www.raphaelfabeni.com.br/brazil-js-2015/)
