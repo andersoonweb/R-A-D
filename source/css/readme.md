@@ -31,3 +31,4 @@
 1. [A função calc() das CSS](http://www.maujor.com/tutorial/css3-funcao-css-calc.php)
 1. [Como criar seções fullscren com CSS](http://willianjusten.com.br/como-criar-secoes-fullscreen-com-css/)
 1. [O CSS](http://www.frontendpath.com/guia/o-css.html)
+1. [As diferentes formas de se representar uma cor no CSS.](http://gabsferreira.com/as-diferentes-formar-de-se-representar-uma-cor-no-css/)
