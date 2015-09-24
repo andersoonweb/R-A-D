@@ -12,7 +12,7 @@
 1. [Responsive Web Design in Sass Part 1: Fluid layouts and fluid images](http://thesassway.com/intermediate/responsive-web-design-part-1)
 1. [Grid simples com SASS](http://tableless.com.br/grid-simples-com-sass/)
 1. [GETTING STARTED WITH SASS AND BREAKPOINT MIXIN](http://responsivedesign.is/develop/getting-started-with-sass)
-1.
+1. [A Simple Gulp’y Workflow For Sass](http://www.sitepoint.com/simple-gulpy-workflow-sass/)
 1.
 1.
 1.
