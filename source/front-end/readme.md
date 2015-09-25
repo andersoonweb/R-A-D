@@ -5,3 +5,4 @@
 1. [Os 5 Pilares de um Front-End Sólido](https://medium.com/brasil/os-5-pilares-de-um-front-end-solido-fc5fb5caa982)
 1. [Sobre trabalhar remoto](http://www.felipefialho.com/blog/2015/sobre-trabalhar-remoto/#.VXj1rXUViko)
 1. [Dicas para evoluir um front-end legado](http://jcemer.com/dicas-para-evoluir-front-end-legado.html)
+1. [Iniciando na programação](http://tableless.com.br/iniciando-na-programacao/)
