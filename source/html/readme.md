@@ -13,3 +13,4 @@
 1. [Introdução a Microdata no HTML5](http://tableless.com.br/introducao-a-microdata-no-html5/)
 1. [A Semântica](http://www.frontendpath.com/guia/a-semantica.html)
 1. [Pra que serve esse <meta charset> no meu html?](http://gabsferreira.com/pra-que-serve-o-meta-charset-no-meu-html/)
+1. [Diferença entre :disabled e :readonly em HTML?](http://pt.stackoverflow.com/questions/6770/diferen%C3%A7a-entre-disabled-e-readonly-em-html)
