@@ -13,7 +13,7 @@
 1. [Grid simples com SASS](http://tableless.com.br/grid-simples-com-sass/)
 1. [GETTING STARTED WITH SASS AND BREAKPOINT MIXIN](http://responsivedesign.is/develop/getting-started-with-sass)
 1. [A Simple Gulp’y Workflow For Sass](http://www.sitepoint.com/simple-gulpy-workflow-sass/)
-1.
+1. [What’s the Difference Between Sass and SCSS?](http://www.sitepoint.com/whats-difference-sass-scss/)
 1.
 1.
 1.
