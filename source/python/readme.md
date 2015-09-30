@@ -1,0 +1,1 @@
+1. [Por que Python?](http://tableless.com.br/por-que-python/)
