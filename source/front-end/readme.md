@@ -6,3 +6,4 @@
 1. [Sobre trabalhar remoto](http://www.felipefialho.com/blog/2015/sobre-trabalhar-remoto/#.VXj1rXUViko)
 1. [Dicas para evoluir um front-end legado](http://jcemer.com/dicas-para-evoluir-front-end-legado.html)
 1. [Iniciando na programação](http://tableless.com.br/iniciando-na-programacao/)
+1. [8 meses de MalaPronta e o fim.](http://nandomoreira.me/8-meses-de-malapronta)

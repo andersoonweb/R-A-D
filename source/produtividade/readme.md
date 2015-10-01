@@ -1,0 +1,2 @@
+1. [Foco e Produtividade. Você tem muito a ganhar com isso](http://tableless.com.br/foco-e-produtividade-voce-tem-muito-ganhar-com-isso/)
+.1 [Como fazer listas ajudou na minha produtividade](https://medium.com/brasil/como-fazer-listas-ajudou-na-minha-produtividade-83ab9bbfc6d5)
