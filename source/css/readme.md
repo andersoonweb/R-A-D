@@ -32,3 +32,4 @@
 1. [Como criar seções fullscren com CSS](http://willianjusten.com.br/como-criar-secoes-fullscreen-com-css/)
 1. [O CSS](http://www.frontendpath.com/guia/o-css.html)
 1. [As diferentes formas de se representar uma cor no CSS.](http://gabsferreira.com/as-diferentes-formar-de-se-representar-uma-cor-no-css/)
+1. [Clearing Floats: An Overview of Different clearfix Methods](http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/)
