@@ -17,3 +17,5 @@
 1. [As múltiplas personalidades do this em JavaScript](http://blog.caelum.com.br/as-multiplas-personalidades-do-this-em-javascript/)
 1. [Objetos JavaScript em Detalhe](https://github.com/ericdouglas/traduz-ai/blob/master/javascript/002-objetos-js-em-detalhe.md#objetos-javascript-em-detalhe)
 1. [Funções de primeira classe](http://javascriptbrasil.com/2012/09/05/funcoes-de-primeira-classe/)
+1. [Javascript reference MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
+	* [String.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
