@@ -1,1 +1,2 @@
 1. [As comunidades estão morrendo](https://medium.com/@raphamorim/as-comunidades-est%C3%A3o-morrendo-ad72d6616674)
+1. [Meu desabafo sobre os últimos meses e sobre a comunidade](https://medium.com/@rfragosodev/meu-desabafo-sobre-os-%C3%BAltimos-meses-e-sobre-a-comunidade-2c690057da60)
