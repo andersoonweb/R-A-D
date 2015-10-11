@@ -1,0 +1,1 @@
+1. [A necessidade de parar um pouco.](http://gabsferreira.com/a-necessidade-de-parar-um-pouco/)
