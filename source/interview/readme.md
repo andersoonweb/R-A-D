@@ -2,3 +2,4 @@
 1. [Daniel Nascimento: a vida secreta de um ex-hacker CT Entrevista](https://www.youtube.com/watch?v=HWdHMMQRC7s)
 1. [Igor Sobreira](http://setup.loopinfinito.com.br/igor-sobreira/)
 1. [An Interview With Tuts+ Reader Lucy Stanford](http://cgi.tutsplus.com/articles/an-interview-with-tuts-reader-lucy-stanford--cms-24947?utm_source=Tuts+&utm_medium=email&utm_campaign=WeeklyDigest&utm_content=WeeklyDigest-20151001&WT.mc_id=Tuts+_email_WeeklyDigest-20151001)
+1. [Eduardo Lundgren](http://setup.loopinfinito.com.br/eduardo-lundgren/) 
