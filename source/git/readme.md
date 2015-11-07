@@ -3,3 +3,4 @@
 1. [Using Git Inside of Sublime Text to Improve Workflow](https://scotch.io/tutorials/using-git-inside-of-sublime-text-to-improve-workflow#conclusion)
 1. [Manter repositório do Github forkado sincronizado com o original](http://blog.da2k.com.br/2014/01/19/manter-repositorio-github-forkado-sincronizado-com-o-original/)
 1. [How to Create a New and Empty Branch in Git](http://bitflop.com/tutorials/how-to-create-a-new-and-empty-branch-in-git.html)
+1. [I'M THE #50 MOST ACTIVE CONTRIBUTOR ON GITHUB, SO WHAT?](http://zenorocha.com/most-active-contributors-on-github)
