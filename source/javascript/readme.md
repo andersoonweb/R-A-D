@@ -19,3 +19,5 @@
 1. [Funções de primeira classe](http://javascriptbrasil.com/2012/09/05/funcoes-de-primeira-classe/)
 1. [Javascript reference MDN](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference)
 	* [String.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
+
+1. [O til no JavaScript](https://diessi.ca/blog/o-til-no-javascript/)
