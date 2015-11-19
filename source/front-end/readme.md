@@ -7,3 +7,4 @@
 1. [Dicas para evoluir um front-end legado](http://jcemer.com/dicas-para-evoluir-front-end-legado.html)
 1. [Iniciando na programação](http://tableless.com.br/iniciando-na-programacao/)
 1. [8 meses de MalaPronta e o fim.](http://nandomoreira.me/8-meses-de-malapronta)
+1. [Desenvolvimento front-end além do "É só html e css"](http://jotateles.com.br/opini%C3%A3o/2015/11/09/desenvolvimento-front-end-alem-do-e-so-html-e-css.html)
