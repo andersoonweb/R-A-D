@@ -11,6 +11,7 @@
 1. **[Comet](source/comet/readme.md)**
 1. **[Communities](source/communities/readme.md)**
 1. **[CPU](source/CPU/readme.md)**
+1. **[Cross browser](source/cross-browser/readme.md)**
 1. **[CSS](source/css/readme.md)**
 1. **[Design](source/design/readme.md)**
 1. **[Design Reponsivo](source/design-reponsivo/readme.md)**
@@ -26,14 +27,17 @@
 1. **[Github](source/github/readme.md)**
 1. **[Google](source/google/readme.md)**
 1. **[Grunt](source/grunt-js/readme.md)**
+1. **[Gulp](source/gulp/readme.md)**
 1. **[HTML](source/html/readme.md)**
 1. **[HTTP2](source/http2/readme.md)**
 1. **[Internet Explore](source/ie/readme.md)**
 1. **[Image Magick](source/ImageMagick/readme.md)**
 1. **[Inglês](source/ingles/readme.md)**
 1. **[Interview](source/interview/readme.md)**
+1. **[Jade](source/jade/readme.md)**
 1. **[Javascript](source/javascript/readme.md)**
 1. **[Jekyll](source/jekyll/readme.md)**
+1. **[Jeet](source/jeet/readme.md)**
 1. **[jQuery](source/jquery/readme.md)**
 1. **[Legacy code](source/legacy-code/readme.md)**
 1. **[Linux](source/linux/readme.md)**
@@ -49,18 +53,23 @@
 1. **[Problemas](source/problemas/readme.md)**
 1. **[Processos](source/processos/readme.md)**
 1. **[Produtividade](source/produtividade/readme.md)**
-1. **[Respectivas](source/respectivas/readme.md)**
+1. **[Python](source/python/readme.md)**
+1. **[Reflexão](source/reflexao/readme.md)**
+1. **[Retrospectiva](source/retrospectiva/readme.md)**
 1. **[Reveal.js](source/revealjs/readme.md)**
 1. **[Safari](source/safari/readme.md)**
 1. **[Sass](source/sass/readme.md)**
+1. **[Semantic version](source/semantic-version/readme.md)**
 1. **[SEO](source/seo/readme.md)**
 1. **[Share](source/share/readme.md)**
 1. **[Slack](source/slack/readme.md)**
 1. **[Soluções](source/soluções-de-erro/readme.md)**
 1. **[SVG](source/svg/readme.md)**
+1. **[talks](source/talks/readme.md)**
 1. **[Técnicas](source/técnica/readme.md)**
 1. **[Tips](source/tips/readme.md)**
 1. **[VIM](source/vim/readme.md)**
+1. **[Web](source/WEB/readme.md)**
 1. **[Wordpress](source/wordpress/readme.md)**
 1. **[Work](source/work/readme.md)**
 1. **[Workflow](source/workflow/readme.md)**
