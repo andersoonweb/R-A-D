@@ -33,3 +33,4 @@
 1. [O CSS](http://www.frontendpath.com/guia/o-css.html)
 1. [As diferentes formas de se representar uma cor no CSS.](http://gabsferreira.com/as-diferentes-formar-de-se-representar-uma-cor-no-css/)
 1. [Clearing Floats: An Overview of Different clearfix Methods](http://www.sitepoint.com/clearing-floats-overview-different-clearfix-methods/)
+1. [Por que height: 100% não funciona?](http://www.maujor.com/blog/2013/03/08/por-que-height-100-nao-funciona/)
