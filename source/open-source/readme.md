@@ -5,3 +5,4 @@
 1. [How talks affect an open source project?](https://medium.com/developer-relations/how-talks-affect-an-open-source-project-e4dd1db81a6d?ct=t(BrazilJS_Weekly_468_9_2013)
 1. [Anarquismo Coletivista e a comunidade OPEN SOURCE](http://nomadev.com.br/anarquismo-coletivista-e-a-comunidade-open-source/)
 1. [How did clipboard.js get 5000 stars in a few days?](https://medium.com/@zenorocha/how-did-clipboard-js-get-5000-stars-in-a-few-days-2b2248ba7bd8)
+1. [Why You Should Commit to Learning with Open Source](http://blog.teamtreehouse.com/why-you-should-commit-to-learning-with-open-source)
