@@ -11,3 +11,4 @@
 1. [Segredos do Github - Commits que fecham issues](http://blog.da2k.com.br/2015/02/18/segredos-do-github-commits-que-fecham-issues/)
 1. [Why I Chose GitHub repositories for Code Articles](https://medium.com/@ericdouglas_/why-i-chose-github-repositories-for-code-articles-d72d9c1034e6)
 1. [GitHub is rolling out a redesign for code repositories](http://venturebeat.com/2015/11/16/github-is-rolling-out-a-redesign-for-code-repositories/)
+1. [How modifying popular libraries can help you become a better developer](https://medium.freecodecamp.com/how-modifying-popular-libraries-can-help-you-become-a-better-developer-4fbdd7d88228#.9685onhy9)
