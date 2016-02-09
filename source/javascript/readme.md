@@ -21,3 +21,6 @@
 	* [String.length](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/String/length)
 
 1. [O til no JavaScript](https://diessi.ca/blog/o-til-no-javascript/)
+1. [Primeiros passos rumo ao Full-Stack com JavaScript!](https://medium.com/@cristofersousa/full-stack-developer-como-me-tornar-um-5c9d23765461#.dts9utvqb)
+1. [The Sad State of Web Development](https://medium.com/@wob/the-sad-state-of-web-development-1603a861d29f#.q8gia4gx4)
+1. [How to fix Javascript… maybe](https://medium.com/@wob/how-to-fix-javascript-maybe-8857819bfa16#.y5lg9lxw1)
