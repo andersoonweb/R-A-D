@@ -12,7 +12,7 @@
 1. [How to open file with default application from command line?](http://askubuntu.com/questions/15354/how-to-open-file-with-default-application-from-command-line)
 1. [Criando aliases úteis](http://www.vivaolinux.com.br/dica/Criando-aliases-uteis)
 
-*Links úteis para instação *
+##Links úteis para instação
 1. [How do I install ruby 2.0.0 correctly on Ubuntu 12.04?](http://stackoverflow.com/questions/16222738/how-do-i-install-ruby-2-0-0-correctly-on-ubuntu-12-04/29584352#29584352)
 1. [Ubuntu-12.04-ruby2.0-install.sh](https://gist.github.com/rubo77/ba9b64b160fe46e44aa1)
 1. [Failed to fetch update on Ubuntu 14.04 LTS (Trusty Tahr) [duplicate]](http://askubuntu.com/questions/553765/failed-to-fetch-update-on-ubuntu-14-04-lts-trusty-tahr)
