@@ -11,3 +11,14 @@
 1. [Saiba como criar seus próprios comandos no Linux usando Alias](http://www.linuxdescomplicado.com.br/2015/06/criar-comandos-usando-alias.html)
 1. [How to open file with default application from command line?](http://askubuntu.com/questions/15354/how-to-open-file-with-default-application-from-command-line)
 1. [Criando aliases úteis](http://www.vivaolinux.com.br/dica/Criando-aliases-uteis)
+
+*Links úteis para instação *
+1. [How do I install ruby 2.0.0 correctly on Ubuntu 12.04?](http://stackoverflow.com/questions/16222738/how-do-i-install-ruby-2-0-0-correctly-on-ubuntu-12-04/29584352#29584352)
+1. [Ubuntu-12.04-ruby2.0-install.sh](https://gist.github.com/rubo77/ba9b64b160fe46e44aa1)
+1. [Failed to fetch update on Ubuntu 14.04 LTS (Trusty Tahr) [duplicate]](http://askubuntu.com/questions/553765/failed-to-fetch-update-on-ubuntu-14-04-lts-trusty-tahr)
+1. [Upgrade Node.js via NPM](https://davidwalsh.name/upgrade-nodejs)
+1. [COMO INSTALAR O ZSH – TENHA UM TERMINAL MAIS PODEROSO QUE O BASH](http://www.ubuntudicas.com.br/2014/09/como-instalar-o-zsh-tenha-um-terminal-mais-poderoso-que-o-bash/)
+1. [Gulp Watch error on Ubuntu 14.04 [solved]](https://discourse.roots.io/t/gulp-watch-error-on-ubuntu-14-04-solved/3453)
+1. [How to install synapse in Ubuntu 14.04](http://askubuntu.com/questions/577711/how-to-install-synapse-in-ubuntu-14-04)
+1. [Error:Opening the cache [duplicate]](http://askubuntu.com/questions/310471/erroropening-the-cache)
+1. [error mounting /dev/sdb1 at /media/](https://www.youtube.com/watch?v=OpjVYZLjFm0)
