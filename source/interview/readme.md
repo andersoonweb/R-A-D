@@ -4,3 +4,4 @@
 1. [An Interview With Tuts+ Reader Lucy Stanford](http://cgi.tutsplus.com/articles/an-interview-with-tuts-reader-lucy-stanford--cms-24947?utm_source=Tuts+&utm_medium=email&utm_campaign=WeeklyDigest&utm_content=WeeklyDigest-20151001&WT.mc_id=Tuts+_email_WeeklyDigest-20151001)
 1. [Eduardo Lundgren](http://setup.loopinfinito.com.br/eduardo-lundgren/) 
 1. [Zeno Rocha: depois de 20 anos é que as pessoas começaram a levar JavaScript a sério](http://imasters.com.br/front-end/javascript/zeno-rocha-depois-de-20-anos-e-que-as-pessoas-comecaram-a-levar-javascript-a-serio/)
+1. [Demian borba](http://setup.loopinfinito.com.br/demian-borba/?ct=t(BrazilJS_Weekly_468_9_2013))
