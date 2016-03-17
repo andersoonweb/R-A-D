@@ -14,3 +14,4 @@
 1. [A Semântica](http://www.frontendpath.com/guia/a-semantica.html)
 1. [Pra que serve esse <meta charset> no meu html?](http://gabsferreira.com/pra-que-serve-o-meta-charset-no-meu-html/)
 1. [Diferença entre :disabled e :readonly em HTML?](http://pt.stackoverflow.com/questions/6770/diferen%C3%A7a-entre-disabled-e-readonly-em-html)
+1. [Como iniciar uma chamada do skype a partir de uma ação no navegador?](http://pt.stackoverflow.com/questions/3149/como-iniciar-uma-chamada-do-skype-a-partir-de-uma-a%C3%A7%C3%A3o-no-navegador)
