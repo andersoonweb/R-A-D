@@ -5,3 +5,4 @@
 1. [How to Create a New and Empty Branch in Git](http://bitflop.com/tutorials/how-to-create-a-new-and-empty-branch-in-git.html)
 1. [I'M THE #50 MOST ACTIVE CONTRIBUTOR ON GITHUB, SO WHAT?](http://zenorocha.com/most-active-contributors-on-github)
 1. [Git: Alterando seus commits com rebase - parte 1/2](http://www.raphaelfabeni.com.br/git-alterando-commits-parte-1/)
+1. [Novo curso de Git e Github para iniciantes](http://willianjusten.com.br/novo-curso-de-git-e-github-para-iniciantes/?utm_campaign=custom_email&utm_medium=email&utm_source=student_mailer)

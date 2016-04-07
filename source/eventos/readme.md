@@ -4,3 +4,4 @@
 1. [A minha missão no Braziljs](http://raphamorim.com/missao-braziljs/)
 1. [Como eu vi a BrazilJS 2015](https://diessi.ca/blog/como-eu-vi-a-braziljs-2015/)
 1. [Valeu BrazilJS](http://www.raphaelfabeni.com.br/brazil-js-2015/)
+1. [Why every developer must to go to events](https://medium.com/@lfeh/why-every-developer-must-to-go-to-events-6a5327a977f9#.6rwpzn88c)

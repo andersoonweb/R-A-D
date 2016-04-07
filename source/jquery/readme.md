@@ -3,3 +3,4 @@
 1. [O entendimento técnico de uma crítica](https://leobalter.github.io/pt-br/jquery/2014/02/19/o-entendimento-te%CC%81cnico-de-uma-cri%CC%81tica.html)
 1. [Confesso: Minha vida virou o caos sem jQuery](http://www.pinceladasdaweb.com.br/blog/2013/09/23/confesso-minha-vida-virou-o-caos-sem-jquery/)
 1. [O que há de errado com a "cultura jQuery"](https://diessi.ca/blog/o-que-ha-de-errado-com-a-cultura-jquery/)
+1. [a jQuery não é a vilã; você é - uma discussão sobre o uso da jQuery em grandes projetos](https://lucianoratamero.github.io/blog/a-jquery-nao-e-a-vila-voce-e-uma-discussao-sobre-o-uso-da-jquery-em-grandes-projetos/)
