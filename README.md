@@ -22,12 +22,14 @@
 1. **[Eventos](source/eventos/readme.md)**
 1. **[Faculdade](source/faculdade/readme.md)**
 1. **[Firefox](source/firefox/readme.md)**
+1. **[Free code camp](source/free-code-camp/readme.md)**
 1. **[Front-end](source/front-end/readme.md)**
 1. **[Git](source/git/readme.md)**
 1. **[Github](source/github/readme.md)**
 1. **[Google](source/google/readme.md)**
 1. **[Grunt](source/grunt-js/readme.md)**
 1. **[Gulp](source/gulp/readme.md)**
+1. **[Home office](source/home-office/readme.md)**
 1. **[HTML](source/html/readme.md)**
 1. **[HTTP2](source/http2/readme.md)**
 1. **[Internet Explore](source/ie/readme.md)**
@@ -68,6 +70,7 @@
 1. **[talks](source/talks/readme.md)**
 1. **[Técnicas](source/técnica/readme.md)**
 1. **[Tips](source/tips/readme.md)**
+1. **[Travis ci](source/travis-ci/readme.md)**
 1. **[VIM](source/vim/readme.md)**
 1. **[Web](source/WEB/readme.md)**
 1. **[Wordpress](source/wordpress/readme.md)**
