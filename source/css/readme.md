@@ -42,3 +42,8 @@
 1. [box-shadow CSS Reference](http://tympanus.net/codrops/css_reference/box-shadow/)
 1. [Falando sobre RSCSS](http://willianjusten.com.br/falando-sobre-rscss/)
 1. [Organizando seu CSS com ITCSS](http://willianjusten.com.br/organizando-seu-css-com-itcss/)
+1. [SMACSS](https://smacss.com/)
+	- [About the Author](https://smacss.com/book/about)
+	- [Introduction](https://smacss.com/book/)
+	- [Categorizing CSS Rules](https://smacss.com/book/categorizing)
+	- [Base Rules](https://smacss.com/book/type-base)
