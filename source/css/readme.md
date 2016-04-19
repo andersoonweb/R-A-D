@@ -47,3 +47,4 @@
 	- [Introduction](https://smacss.com/book/)
 	- [Categorizing CSS Rules](https://smacss.com/book/categorizing)
 	- [Base Rules](https://smacss.com/book/type-base)
+	- [Layout Rules](https://smacss.com/book/type-layout)
