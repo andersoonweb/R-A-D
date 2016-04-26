@@ -8,3 +8,4 @@
 1. [Iniciando na programação](http://tableless.com.br/iniciando-na-programacao/)
 1. [8 meses de MalaPronta e o fim.](http://nandomoreira.me/8-meses-de-malapronta)
 1. [Desenvolvimento front-end além do "É só html e css"](http://jotateles.com.br/opini%C3%A3o/2015/11/09/desenvolvimento-front-end-alem-do-e-so-html-e-css.html)1. [workflow front end](https://www.gitbook.com/book/tapmorales/workflow-front-end/details)
+1. [Como se tornar um grande engenheiro front-end](http://imasters.com.br/gerencia-de-ti/carreira/como-se-tornar-um-grande-engenheiro-front-end/?utm_source=iMasters&utm_campaign=3dcfd2c19a-ds_2015_08_18&utm_medium=email&utm_term=0_c1528e6ab3-3dcfd2c19a-359289841)
