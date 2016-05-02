@@ -24,3 +24,4 @@
 1. [How to install synapse in Ubuntu 14.04](http://askubuntu.com/questions/577711/how-to-install-synapse-in-ubuntu-14-04)
 1. [Error:Opening the cache [duplicate]](http://askubuntu.com/questions/310471/erroropening-the-cache)
 1. [error mounting /dev/sdb1 at /media/](https://www.youtube.com/watch?v=OpjVYZLjFm0)
+1. [Desativando popups "O sistema detectou um problema no aplicativo" no Ubuntu](https://www.vivaolinux.com.br/dica/Desativando-popups-O-sistema-detectou-um-problema-no-aplicativo-no-Ubuntu)
