@@ -7,3 +7,4 @@
 1. [Jekyll list all posts](https://gist.github.com/erjjones/1998382)
 1. [Usando categorias e tags no Jekyll](http://nandomoreira.me/usando-categorias-e-tags-no-jekyll/)
 1. [Compress HTML in Jekyll](http://jch.penibelst.de/)
+1. [ [Error] Installing Jekyll on Ubuntu 14.04](http://stackoverflow.com/questions/34521806/installing-jekyll-on-ubuntu-14-04)

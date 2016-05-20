@@ -1,5 +1,4 @@
 1. [Como ser um dev frontend usando Linux](http://blog.da2k.com.br/2015/01/15/como-ser-um-dev-frontend-usando-linux/)
-
 1. [Unix: A base de tudo](http://www.vitorbritto.com.br/blog/unix-a-base-de-tudo/)
 1. [How To Install Linux, Apache, MySQL, PHP (LAMP) stack on Ubuntu](https://www.digitalocean.com/community/tutorials/how-to-install-linux-apache-mysql-php-lamp-stack-on-ubuntu)
 1. [Por que eu uso Linux](http://www.diolinux.com.br/2013/10/por-que-eu-uso-linux.html)
@@ -13,8 +12,6 @@
 1. [How to open file with default application from command line?](http://askubuntu.com/questions/15354/how-to-open-file-with-default-application-from-command-line)
 1. [#ajudaLuciano - distros linux da vez (23/02/2016)](https://lucianoratamero.github.io/blog/ajudaLuciano-distros-linux-da-vez-23-02-16/)
 1. [Criando aliases úteis](http://www.vivaolinux.com.br/dica/Criando-aliases-uteis)
-
-##Links úteis para instação
 1. [How do I install ruby 2.0.0 correctly on Ubuntu 12.04?](http://stackoverflow.com/questions/16222738/how-do-i-install-ruby-2-0-0-correctly-on-ubuntu-12-04/29584352#29584352)
 1. [Ubuntu-12.04-ruby2.0-install.sh](https://gist.github.com/rubo77/ba9b64b160fe46e44aa1)
 1. [Failed to fetch update on Ubuntu 14.04 LTS (Trusty Tahr) [duplicate]](http://askubuntu.com/questions/553765/failed-to-fetch-update-on-ubuntu-14-04-lts-trusty-tahr)
@@ -25,3 +22,4 @@
 1. [Error:Opening the cache [duplicate]](http://askubuntu.com/questions/310471/erroropening-the-cache)
 1. [error mounting /dev/sdb1 at /media/](https://www.youtube.com/watch?v=OpjVYZLjFm0)
 1. [Desativando popups "O sistema detectou um problema no aplicativo" no Ubuntu](https://www.vivaolinux.com.br/dica/Desativando-popups-O-sistema-detectou-um-problema-no-aplicativo-no-Ubuntu)
+1. [Desligar e reiniar o apache](https://www.vivaolinux.com.br/topico/Iniciantes-no-Linux/desligar-e-reiniciar-o-apache)

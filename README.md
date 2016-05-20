@@ -46,16 +46,19 @@
 1. **[Mobile](source/mobile/readme.md)**
 1. **[Motivação](source/motivacao/readme.md)**
 1. **[MTL](source/MTL/readme.md)**
+1. **[MYSQL](source/mysql/readme.md)**
 1. **[NodeJs](source/nodejs/readme.md)**
 1. **[NPM](source/npm/readme.md)**
 1. **[Open Graph](source/open-graph/readme.md)**
 1. **[Open source](source/open-source/readme.md)**
-1. **[Opinioes](source/opinioes/readme.md)**
+1. **[Opiniões](source/opinioes/readme.md)**
 1. **[Performace](source/performace/readme.md)**
+1. **[Php myadmin](source/phpmyadmin/readme.md)**
 1. **[Problemas](source/problemas/readme.md)**
 1. **[Processos](source/processos/readme.md)**
 1. **[Produtividade](source/produtividade/readme.md)**
 1. **[Python](source/python/readme.md)**
+1. **[Rails](source/rails/readme.md)**
 1. **[Reflexão](source/reflexao/readme.md)**
 1. **[Retrospectiva](source/retrospectiva/readme.md)**
 1. **[Reveal.js](source/revealjs/readme.md)**
@@ -66,6 +69,7 @@
 1. **[Share](source/share/readme.md)**
 1. **[Slack](source/slack/readme.md)**
 1. **[Soluções](source/soluções-de-erro/readme.md)**
+1. **[Sublime Text](source/sublime-text/readme.md)**
 1. **[SVG](source/svg/readme.md)**
 1. **[talks](source/talks/readme.md)**
 1. **[Técnicas](source/técnica/readme.md)**

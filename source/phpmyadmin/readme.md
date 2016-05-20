@@ -1,0 +1,2 @@
+1. [phpmyadmin not working due to missing extensions](http://askubuntu.com/questions/755383/phpmyadmin-not-working-due-to-missing-extensions/764254#764254)
+1. [Import file size limit in PHPMyAdmin](http://stackoverflow.com/questions/3958615/import-file-size-limit-in-phpmyadmin)
