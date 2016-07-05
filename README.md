@@ -1,6 +1,6 @@
-![Alt text](/image/rad.png "Registration an developer")
-## Registration an developer
-##### This project is inspired by	 the [DEV-LOG](https://github.com/ericdouglas/dev-log)
+![Alt text](/image/R-A-D -1.png "Registration an developer")
+
+> A current of links using on my daily. Project inspired by [devlog](https://github.com/ericdouglas/dev-log)
 
 1. **[Acessibilidade](source/acessibilidade//readme.md)**
 1. **[Atomic Design](source/atomic-design/readme.md)**
