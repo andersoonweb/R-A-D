@@ -5,3 +5,4 @@
 1. [Eduardo Lundgren](http://setup.loopinfinito.com.br/eduardo-lundgren/) 
 1. [Zeno Rocha: depois de 20 anos é que as pessoas começaram a levar JavaScript a sério](http://imasters.com.br/front-end/javascript/zeno-rocha-depois-de-20-anos-e-que-as-pessoas-comecaram-a-levar-javascript-a-serio/)
 1. [Demian borba](http://setup.loopinfinito.com.br/demian-borba/?ct=t(BrazilJS_Weekly_468_9_2013))
+1. [Jaydson gomes](http://setup.loopinfinito.com.br/jaydson-gomes/)
