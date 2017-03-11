@@ -48,3 +48,5 @@
 	- [Categorizing CSS Rules](https://smacss.com/book/categorizing)
 	- [Base Rules](https://smacss.com/book/type-base)
 	- [Layout Rules](https://smacss.com/book/type-layout)
+1. [Inheriting box-sizing Probably Slightly Better Best-Practice](https://css-tricks.com/inheriting-box-sizing-probably-slightly-better-best-practice/)
+1. [Box Sizing - CSS References](https://tympanus.net/codrops/css_reference/box-sizing/)
